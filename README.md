@@ -10,7 +10,9 @@ Diese Woche las ich das ganze Dokument durch, [des 2. Tages](https://gitlab.com/
 
 Diese Unterlagen hatten wir zur Verfügung
 -[ERD erweitern, DBMS, Datenbank erstellen](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/2.Tag)
+
 -[Generalisierung / Spezialisierung (is_a-Beziehung), indentifizierende & nicht-identifizierende Beziehungen](https://www.datenbank-grundlagen.de/beziehungen-datenbanken.html)
+
 -[DDL](https://gitlab.com/ch-tbz-it/Stud/m164/-/blob/main/2.Tag/DDL_Intro.md)
 
 
