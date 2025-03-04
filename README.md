@@ -7,3 +7,13 @@ Wir begannen mit unserem neuem Modul, M164 - Datenbanken erstellen und Daten ein
 # 25. Februar
 
 Diese Woche las ich das ganze Dokument durch, [des 2. Tages](https://gitlab.com/harald.mueller/aktuelle.kurse/-/tree/master/m164). Ich informierte mich darüber und erstellte eine Datenbank wie im Beispiel, zu Beginn des Dokumentes. Danach wollte ich die Datenbank als SQL Code exportieren, es gab jedoch Probleme. Weswegen ich mich nächste Woche mit dem nächsten Dokument befassen werde und Troubleshooting machen muss.
+
+Diese Unterlagen hatten wir zur Verfügung
+-[ERD erweitern, DBMS, Datenbank erstellen](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/2.Tag)
+-[Generalisierung / Spezialisierung (is_a-Beziehung), indentifizierende & nicht-identifizierende Beziehungen](https://www.datenbank-grundlagen.de/beziehungen-datenbanken.html)
+-[DDL](https://gitlab.com/ch-tbz-it/Stud/m164/-/blob/main/2.Tag/DDL_Intro.md)
+
+
+# 04. März
+
+Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich mit Xampp arbeiten konnte. Ich versuchte zuerst das Problem an sich zu lösen, als ich dann aber nicht voran kam entshcied ich mich das Programm zu löschen und einfach nochmals zu installieren. Danach widmete ich mich dem [Heutigen Dokument](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
