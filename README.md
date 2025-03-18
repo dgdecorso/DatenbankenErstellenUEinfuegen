@@ -20,3 +20,15 @@ Diese Unterlagen hatten wir zur Verfügung:
 # 04. März
 
 Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich mit Xampp arbeiten konnte. Ich versuchte zuerst das Problem an sich zu lösen, als ich dann aber nicht voran kam entshcied ich mich das Programm zu löschen und einfach nochmals zu installieren. Danach widmete ich mich dem [Heutigen Dokument](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
+
+# 11. März
+
+Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. Nachdem lesten wir die Aufträge durch. Diese Mal ging es um Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN) 
+
+[Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN)](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag)
+
+# 18. März
+
+Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie anschauen und überprüfen ob alles stimmt. Dann begannen wjir mit dem Lesen der Unterlagen und vertieften diese, heute mussten wir über Datenintegrität lernen.
+
+[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
