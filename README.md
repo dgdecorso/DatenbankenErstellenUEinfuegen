@@ -25,10 +25,10 @@ Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich 
 
 Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. Nachdem lesten wir die Aufträge durch. Diese Mal ging es um Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN) 
 
-[Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN)](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag)
+-[Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN)](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag)
 
 # 18. März
 
 Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie anschauen und überprüfen ob alles stimmt. Dann begannen wjir mit dem Lesen der Unterlagen und vertieften diese, heute mussten wir über Datenintegrität lernen.
 
-[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
+-[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
