@@ -16,10 +16,16 @@ Diese Unterlagen hatten wir zur Verfügung:
 
 -[DDL](https://gitlab.com/ch-tbz-it/Stud/m164/-/blob/main/2.Tag/DDL_Intro.md)
 
+## Aufträge:
+
 
 # 04. März
 
 Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich mit Xampp arbeiten konnte. Ich versuchte zuerst das Problem an sich zu lösen, als ich dann aber nicht voran kam entshcied ich mich das Programm zu löschen und einfach nochmals zu installieren. Danach widmete ich mich dem [Heutigen Dokument](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
+
+-[Datentypen, Mehrafachbezeichnug usw.](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
+
+## Aufträge:
 
 # 11. März
 
@@ -27,11 +33,15 @@ Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. N
 
 -[Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN)](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag)
 
+## Aufträge:
+
 # 18. März
 
 Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie anschauen und überprüfen ob alles stimmt. Dann begannen wir mit dem Lesen der Unterlagen und vertieften diese, heute mussten wir über Datenintegrität lernen.
 
 -[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
+
+## Aufträge:
 
 # 25.03.2025
 
@@ -40,5 +50,5 @@ Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatte
 -[Subqueries](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/6.Tag)
 
 ## Aufträge:
-
+-[Auftrag 1](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T6A1.md)
 
