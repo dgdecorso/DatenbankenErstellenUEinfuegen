@@ -29,6 +29,12 @@ Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. N
 
 # 18. März
 
-Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie anschauen und überprüfen ob alles stimmt. Dann begannen wjir mit dem Lesen der Unterlagen und vertieften diese, heute mussten wir über Datenintegrität lernen.
+Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie anschauen und überprüfen ob alles stimmt. Dann begannen wir mit dem Lesen der Unterlagen und vertieften diese, heute mussten wir über Datenintegrität lernen.
 
 -[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
+
+# 25.03.2025
+
+Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatten wir folgenden Unterlagen und mussten dann die Aufträge lösen.
+
+-[Subqueries](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/6.Tag)
