@@ -26,6 +26,7 @@ Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich 
 -[Datentypen, Mehrafachbezeichnug usw.](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
 
 ## Aufträge:
+-[Auftrag DML](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T3A1.md)
 
 # 11. März
 
