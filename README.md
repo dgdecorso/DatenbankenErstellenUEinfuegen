@@ -50,8 +50,10 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 
 ## Aufträge:
 -[Aggregatsfunktionen](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A1.md)
+
 -[Select Group by](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A2.md)
 
+-[Auftrag Select group by order]()
 # 25. März Tag 6.
 
 Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatten wir folgenden Unterlagen und mussten dann die Aufträge lösen.
