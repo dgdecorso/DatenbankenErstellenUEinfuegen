@@ -49,6 +49,7 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 -[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
 
 ## Aufträge:
+-[Aggregatsfunktionen](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A1.md)
 
 # 25. März Tag 6.
 
