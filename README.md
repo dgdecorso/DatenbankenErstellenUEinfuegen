@@ -38,3 +38,7 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatten wir folgenden Unterlagen und mussten dann die Aufträge lösen.
 
 -[Subqueries](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/6.Tag)
+
+# Aufträge:
+
+
