@@ -21,7 +21,7 @@ Diese Woche las ich das ganze Dokument durch, [des 2. Tages](https://gitlab.com/
 
 # 04. März Tag 3.
 
-Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich mit Xampp arbeiten konnte. Ich versuchte zuerst das Problem an sich zu lösen, als ich dann aber nicht voran kam entshcied ich mich das Programm zu löschen und einfach nochmals zu installieren. Danach widmete ich mich dem [Heutigen Dokument](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
+Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich mit Xampp arbeiten konnte. Ich versuchte zuerst das Problem an sich zu lösen, als ich dann aber nicht voran kam entschied ich mich das Programm zu löschen und einfach nochmals zu installieren. Danach widmete ich mich dem [Heutigen Dokument](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3) und löste dann die Aufträge
 
 ## Die Unterlagen:
 
@@ -39,6 +39,7 @@ Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. N
 -[Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN)](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag)
 
 ## Aufträge:
+[Auftrag Select Join](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T4A1.md)
 
 # 18. März Tag 5. 
 
@@ -49,11 +50,12 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 -[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
 
 ## Aufträge:
--[Aggregatsfunktionen](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A1.md)
+-[Auftrag Aggregatsfunktionen](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A1.md)
 
 -[Select Group by](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A2.md)
 
 -[Auftrag Select group by order](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A3.md)
+
 # 25. März Tag 6.
 
 Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatten wir folgenden Unterlagen und mussten dann die Aufträge lösen.
