@@ -50,6 +50,7 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 
 ## Aufträge:
 -[Aggregatsfunktionen](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A1.md)
+-[Select Group by](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A2.md)
 
 # 25. März Tag 6.
 
