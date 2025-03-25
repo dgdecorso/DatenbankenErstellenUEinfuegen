@@ -1,0 +1,29 @@
+-- 1. Anzahl aller Schüler, gruppiert nach Nationalität
+SELECT nationality AS Nationalität, COUNT(*) AS Anzahl
+FROM students
+GROUP BY nationality;
+
+-- 2. Anzahl der Schüler in den einzelnen Orten, sortiert nach der Anzahl der Schüler (absteigend)
+SELECT city AS Ort, COUNT(*) AS "Anzahl der Schüler"
+FROM students
+GROUP BY city
+ORDER BY COUNT(*) DESC;
+
+-- 3. Anzahl der Lehrer, die die einzelnen Fächer unterrichten, sortiert nach Anzahl (absteigend)
+SELECT subject AS Fachbezeichnung, COUNT(*) AS Anzahl
+FROM teachers
+GROUP BY subject
+ORDER BY Anzahl DESC;
+
+-- 4. Liste der Lehrer, die die jeweiligen Fächer unterrichten, sortiert nach Anzahl der Lehrer (absteigend)
+SELECT subject AS Fachbezeichnung, GROUP_CONCAT(name ORDER BY name) AS Lehrerliste
+FROM teachers
+GROUP BY subject
+ORDER BY COUNT(*) DESC;
+
+-- 5. Liste der Schülernamen und die Fächer, in denen diese Schüler unterrichtet werden
+SELECT students.name AS Schülername, teachers.name AS Lehrer, GROUP_CONCAT(subject ORDER BY subject) AS Fächer
+FROM students
+JOIN enrollments ON students.id = enrollments.student_id
+JOIN teachers ON enrollments.teacher_id = teachers.id
+GROUP BY students.name;
