@@ -8,7 +8,7 @@ Wir begannen mit unserem neuem Modul, M164 - Datenbanken erstellen und Daten ein
 
 Diese Woche las ich das ganze Dokument durch, [des 2. Tages](https://gitlab.com/harald.mueller/aktuelle.kurse/-/tree/master/m164). Ich informierte mich darüber und erstellte eine Datenbank wie im Beispiel, zu Beginn des Dokumentes. Danach wollte ich die Datenbank als SQL Code exportieren, es gab jedoch Probleme. Weswegen ich mich nächste Woche mit dem nächsten Dokument befassen werde und Troubleshooting machen muss.
 
-Diese Unterlagen hatten wir zur Verfügung:
+## Diese Unterlagen hatten wir zur Verfügung:
 
 -[ERD erweitern, DBMS, Datenbank erstellen](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/2.Tag)
 
@@ -23,6 +23,8 @@ Diese Unterlagen hatten wir zur Verfügung:
 
 Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich mit Xampp arbeiten konnte. Ich versuchte zuerst das Problem an sich zu lösen, als ich dann aber nicht voran kam entshcied ich mich das Programm zu löschen und einfach nochmals zu installieren. Danach widmete ich mich dem [Heutigen Dokument](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
 
+## Diese Unterlagen hatten wir zur Verfügung:
+
 -[Datentypen, Mehrafachbezeichnug usw.](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3)
 
 ## Aufträge:
@@ -32,6 +34,8 @@ Zu Begin der Lektion musste ich ein Problem lösen, welches verhinderte das ich 
 
 Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. Nachdem lesten wir die Aufträge durch. Diese Mal ging es um Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN) 
 
+## Diese Unterlagen hatten wir zur Verfügung:
+
 -[Ref. Integrität / FK-Constraints, Mengenlehre, DML (JOIN)](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag)
 
 ## Aufträge:
@@ -40,6 +44,8 @@ Wir begannen die Lektion mit der LB1, dafür hatten wir etwas 90 Minuten Zeit. N
 
 Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie anschauen und überprüfen ob alles stimmt. Dann begannen wir mit dem Lesen der Unterlagen und vertieften diese, heute mussten wir über Datenintegrität lernen.
 
+## Diese Unterlagen hatten wir zur Verfügung:
+
 -[Datenintegrität, DQL, DCL FK-Constraint-Option Regeln  ](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag)
 
 ## Aufträge:
@@ -47,6 +53,8 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 # 25. März Tag 6.
 
 Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatten wir folgenden Unterlagen und mussten dann die Aufträge lösen.
+
+## Diese Unterlagen hatten wir zur Verfügung:
 
 -[Subqueries](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/6.Tag)
 
