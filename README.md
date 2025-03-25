@@ -39,6 +39,6 @@ Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatte
 
 -[Subqueries](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/6.Tag)
 
-# Aufträge:
+## Aufträge:
 
 
