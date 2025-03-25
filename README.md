@@ -53,7 +53,7 @@ Zu Beginn der Lektion erhielten wir unsere Prüfung zurück, wri sollten sie ans
 
 -[Select Group by](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A2.md)
 
--[Auftrag Select group by order]()
+-[Auftrag Select group by order](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T5A3.md)
 # 25. März Tag 6.
 
 Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatten wir folgenden Unterlagen und mussten dann die Aufträge lösen.
