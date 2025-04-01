@@ -73,7 +73,7 @@ Heute erklärte uns, der Lehrer, ganz kurz etwas über den 1. April. Danach bega
 
 ## Die Unterlagen:
 
--[Backups](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/7.Tag)
+-[Backups](https://github.com/dgdecorso/DatenbankenErstellenUEinfuegen/blob/main/T7A1.md)
 
 ## Aufträge:
 -[Auftrag Zusammenfassung](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T6A1.md)
