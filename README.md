@@ -67,3 +67,13 @@ Diese Woche lernten wir was Subqueries sind und wie man sie anwendet. Dazu hatte
 ## Aufträge:
 -[Auftrag 1](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T6A1.md)
 
+# 1. April, Tag 7.
+
+Heute erklärte uns, der Lehrer, ganz kurz etwas über den 1. April. Danach begannen wir direkt mit den Aufgaben. Heute ging es um Backups. Dazu hatten wir die unten verlinkten Unterlagen. Dazu mussten wir auch Aufträge lösen.
+
+## Die Unterlagen:
+
+-[Backups](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/7.Tag)
+
+## Aufträge:
+-[Auftrag Zusammenfassung](https://github.com/dgdecorso/DatenbankenErstellenUEinf-gen-/blob/main/T6A1.md)
