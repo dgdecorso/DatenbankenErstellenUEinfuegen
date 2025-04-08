@@ -77,3 +77,15 @@ Heute erklärte uns, der Lehrer, ganz kurz etwas über den 1. April. Danach bega
 
 ## Aufträge:
 -[Auftrag Zusammenfassung](https://github.com/dgdecorso/DatenbankenErstellenUEinfuegen/blob/main/T7A1.md)
+
+# 8. April, Tag 8.
+
+Während der heutigen Lektion, hatten wir Zeit, die Aufgaben zu lösen. Die Aufgaben waren die Vorbereitung auf die kommende Prüfung am 9. Modultag. Der Lehrer liess uns sofort mit den Aufgaben beginnen und hatte keinen Input.
+
+## Die Unterlagen:
+
+-[Praxisarbeit/Vorbereitung](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/8.Tag)
+
+## Aufträge:
+-[Auftrag Steuerdaten](https://github.com/dgdecorso/DatenbankenErstellenUEinfuegen/blob/main/T7A1.md)
+
