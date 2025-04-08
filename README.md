@@ -87,5 +87,5 @@ Während der heutigen Lektion, hatten wir Zeit, die Aufgaben zu lösen. Die Aufg
 -[Praxisarbeit/Vorbereitung](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/8.Tag)
 
 ## Aufträge:
--[Auftrag Steuerdaten](https://github.com/dgdecorso/DatenbankenErstellenUEinfuegen/blob/main/T7A1.md)
+-[Auftrag Steuerdaten](https://github.com/dgdecorso/DatenbankenErstellenUEinfuegen/blob/main/T8A1.md)
 
